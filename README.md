@@ -6,7 +6,6 @@ Code for frequency data generation based on number of octaves.
 
 Code for generating SRS spectrum. 
 
-Code for SRS graph generation (positive, negative and maximax) using Smallwood Algorithm.
-    Reference code: https://github.com/dsholes/python-srs
+Code for SRS graph generation (positive, negative and maximax) using Smallwood Algorithm. Reference code (Smallwood): https://github.com/dsholes/python-srs
 
 
